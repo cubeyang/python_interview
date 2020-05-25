@@ -1,2 +1,2 @@
 # python_interview
-For the my python interview.
+For the python interview of mine.
